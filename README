@@ -1,0 +1,11 @@
+This is a casual hacing repo!
+
+Here's a hack you could discover more about here:
+
+[code]
+import UnityEngine
+
+class ZPositionLocker (ScriptableObject):
+    public zLocking = false
+    public selectsNewObjects = false
+[/code]
