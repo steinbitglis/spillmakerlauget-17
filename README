@@ -1,11 +1,9 @@
-This is a casual hacing repo!
+This is a casual hacking repo!
 
 Here's a hack you could discover more about here:
 
-[code]
-import UnityEngine
+  import UnityEngine
 
-class ZPositionLocker (ScriptableObject):
-    public zLocking = false
-    public selectsNewObjects = false
-[/code]
+  class ZPositionLocker (ScriptableObject):
+      public zLocking = false
+      public selectsNewObjects = false
